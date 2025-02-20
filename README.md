@@ -6,4 +6,4 @@ During the past few academic years, I got the opportunity to gain theoretical an
 
 In addition, I like exploring Data Visualization and Data Collection tools like Power BI and Microsoft Excel and in my free time I focus on my soft skills such as interpersonal communication, developing leadership calibre and honing presentation and public speaking skills.
 
-My Resume - [vedant Suryawanshi](https://github.com/StarSmith13/Data-Analyst-Portfolio/blob/main/Vedant%20Suryawanshi.pdf)
+My Resume in [pdf](https://github.com/StarSmith13/Data-Analyst-Portfolio/blob/main/Vedant%20Suryawanshi.pdf)
