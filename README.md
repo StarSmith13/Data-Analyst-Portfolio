@@ -8,5 +8,6 @@ In addition, I like exploring Data Visualization and Data Collection tools like 
 
 My Resume in [pdf](https://github.com/StarSmith13/Data-Analyst-Portfolio/blob/main/Vedant%20Suryawanshi.pdf)
 
-### Table of Contents
-    - About me (#about-me)
+### Portfolio Projects
+#### Movie Recommendation System 
+Code:
