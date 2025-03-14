@@ -11,6 +11,6 @@ My Resume in [pdf](https://github.com/StarSmith13/Data-Analyst-Portfolio/blob/ma
 ## Portfolio Projects
 ### Movie Recommendation System
 **Objective:** To accurately recommend top 5 similar films based on the user's latest viewing from the top 70 movie dataset.\
-**Code:** [Movie Recommender](https://github.com/StarSmith13/Movie-Recommendation-System/blob/main/MovieRecommender.ipynb)\
+**Code:** [https://github.com/StarSmith13/Movie-Recommendation-System.ipynb](https://github.com/StarSmith13/Movie-Recommendation-System/blob/main/MovieRecommender.ipynb)\
 **Description:**
  
