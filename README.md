@@ -9,7 +9,8 @@ In addition, I like exploring Data Visualization and Data Collection tools like 
 My Resume in [pdf](https://github.com/StarSmith13/Data-Analyst-Portfolio/blob/main/Vedant%20Suryawanshi.pdf)
 
 ## Portfolio Projects
-[### Movie Recommendation System](https://github.com/StarSmith13/Movie-Recommendation-System/blob/main/MovieRecommender.ipynb)
+### Movie Recommendation System
 **Objective:** To accurately recommend top 5 similar films based on the user's latest viewing from the top 70 movie dataset.\
+**Code:** [Movie Recommender](https://github.com/StarSmith13/Movie-Recommendation-System/blob/main/MovieRecommender.ipynb)\
 **Description:**
  
