@@ -12,5 +12,14 @@ My Resume in [pdf](https://github.com/StarSmith13/Data-Analyst-Portfolio/blob/ma
 ### Movie Recommendation System
 **Objective:** To accurately recommend top 5 similar films based on the user's latest viewing from the top 70 movie dataset.\
 **Code:** [https://github.com/StarSmith13/Movie-Recommendation-System.ipynb](https://github.com/StarSmith13/Movie-Recommendation-System/blob/main/MovieRecommender.ipynb)\
-**Description:**
+**Description:** I rendered the movie dataset using Gen Ai. It has columns such as, *Director*, *Lead cast*, *Plot* and *Genre*. These columns are preprocessed and feature is extracted for all the records. Based on these, I have mapped a Tfidf matrix and a consine similarity matrix. Recommendations are made on these values. 
+
+**Result:** Top 5 most similar films are recommended based on the similarity in features and aspects of the films.
+
+**Skills:** stopwords removal & tokenization, feature extraction, count vectorization, gen ai
+
+**Technology:** Python, Pandas, Sklearn
+
+
+### Supply Chain Efficiency Analysis
  
