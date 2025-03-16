@@ -9,40 +9,38 @@ In addition, I like exploring Data Visualization and Data Collection tools like 
 My Resume in [pdf](https://github.com/StarSmith13/Data-Analyst-Portfolio/blob/main/Vedant%20Suryawanshi.pdf)
 
 ## Portfolio Projects
-### Movie Recommendation System
-**Objective:** To accurately recommend top 5 similar films based on the user's latest viewing from the top 70 movie dataset.
+### <ins>Movie Recommendation System</ins>
+**Objective:** To build a content-based movie recommendation system using NLP and similarity analysis to suggest relevant films based on user input.
 
 **Code:** [https://github.com/StarSmith13/Movie-Recommendation-System.ipynb](https://github.com/StarSmith13/Movie-Recommendation-System/blob/main/MovieRecommender.ipynb)
 
-**Description:** I rendered the movie dataset using Gen Ai. It has columns such as, *Director*, *Lead cast*, *Plot* and *Genre*. These columns are preprocessed and feature is extracted for all the records. Based on these, I have mapped a Tfidf matrix and a consine similarity matrix. Recommendations are made on these values.
+**Description:** Developed a recommendation system using TF-IDF and cosine similarity on a dataset of 70+ top IMDb movies. The system computes similarity scores between films and recommends the top 5 most similar titles based on user input.
 
 **Skills:** stopwords removal & tokenization, feature extraction, count vectorization, gen ai
 
 **Technology:** Python, Pandas, Sklearn
 
-
-### Supply Chain Efficiency Analysis
-**Objective:** To analyze sales and logisitc data of self-care products to find correlations and patterns among different attributes.
+### <ins>Supply Chain Efficiency Analysis</ins>
+**Objective:** To analyze supply chain data and identify patterns in revenue, production costs, logistics, and defect rates to improve operational efficiency.
 
 **Code:** [https://github.com/StarSmith13/Supply-Chain-Efficiency-analysis](https://github.com/StarSmith13/Supply-Chain-Efficiency-Analysis/blob/main/Supply_Chain_Efficiency_Analysis.ipynb)
 
-**Description:** The Supply Chain Data consists of attributes such as .....
+**Description:** Performed data preprocessing and exploratory analysis on 90+ products across 3 categories (Skincare, Haircare, and Cosmetics). Evaluated sales performance in major cities and identified Kolkata as the highest-selling city with a defect rate of 41.66%.
 
 **Skills:** exploratory data analysis, data visualization
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Power BI
 
-### Credit Card Fraud Detection
-**Objective:** To identify anomalous patterns in State Transaction records of different credit card users.
+### <ins>Credit Card Fraud Detection</ins>
+**Objective:** To identify and classify fraudulent credit card transactions using anomaly detection techniques.
 
 **Code:** [https://github.com/StarSmith13/Credit-Card-Fraud-Detection.ipynb](https://github.com/StarSmith13/Credit-Card-Fraud-Detection/blob/main/Credit_Card_Fraud.ipynb)
 
-**Description:** 
+**Description:** Analyzed 4000+ state employee transactions and computed Z-scores based on Merchandise Amount to classify anomalies. Implemented a Decision Tree classifier for improved accuracy in detecting fraudulent transactions.
 
 **Skills:** data preprocessing, data visualization, hypothesis testing, decision tree classifier
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
-
 
 ## Education
 Ramdeobaba University (initially: Shri Ramdeobaba College of Engineering and Management) - B. Tech Computer Science with specialization in Data Science, Dec 2021 - Present
