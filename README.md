@@ -50,7 +50,7 @@ Bharatiya Krishi Junior College, Nagpur - Higher Secondary Certficate, Apr 2020 
 Kendriya Vidyalaya Vayusena Nagar, Nagpur - Secondary School Certificate, Apr 2018 - Apr 2019
 
 ## Certificates
-Over the course of my degree I've had the opportunity to do certifications from backgrounds such as cybersecurity and ai. Here are the select few that stand out:
+Over the course of my degree I've had the opportunity to do certifications from various backgrounds. Here are the select few that stand out:
 * **Introduction to Data Science** - Apr 2024 by IBM (edX)
 * **Google Analytics for Beginners** - July 2024 by Google Analytics
 * **Advanced Google Analytics** - July 2024 by Google Analytics
