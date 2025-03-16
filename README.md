@@ -43,16 +43,6 @@ My Resume in [pdf](https://github.com/StarSmith13/Data-Analyst-Portfolio/blob/ma
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
 
-## Study Projects
-### Film Review Pipeline
-**Objective:** To retrieve and store film reviews
-
-**Code:** [https://github.com/StarSmith13/Film-Review-Pipeline.ipynb](https://github.com/StarSmith13/Film-Review-Pipeline/blob/main/Film_Review_Pipeline.ipynb)\
-**Description:**
-
-**Skills:** web scraping, data cleaning, etl
-
-**Technology:** Python, Beautiful Soup, Pandas, AWS S3
 
 ## Education
 Ramdeobaba University (initially: Shri Ramdeobaba College of Engineering and Management) - B. Tech Computer Science with specialization in Data Science, Dec 2021 - Present
