@@ -14,7 +14,7 @@ My Resume in [pdf](https://github.com/StarSmith13/Data-Analyst-Portfolio/blob/ma
 
 **Code:** [https://github.com/StarSmith13/Movie-Recommendation-System.ipynb](https://github.com/StarSmith13/Movie-Recommendation-System/blob/main/MovieRecommender.ipynb)
 
-**Description:** Developed a recommendation system using TF-IDF and cosine similarity on a dataset of 70+ top IMDb movies. The system computes similarity scores between films and recommends the top 5 most similar titles based on user input.
+**Description:** Developed a recommendation system using TF-IDF and cosine similarity on a dataset of top 70 IMDb movies. The system computes similarity scores between films and recommends the top 5 most similar titles based on user input.
 
 **Skills:** stopwords removal & tokenization, feature extraction, count vectorization, gen ai
 
@@ -56,6 +56,7 @@ Over the course of my degree I've had the opportunity to do certifications from 
 * **Advanced Google Analytics** - July 2024 by Google Analytics
 
 ## Contacts
+Linkedin: [linkedin.com/in/vedant-suryawanshi](www.linkedin.com/in/vedant-suryawanshi-216114268)
 Email📧: vedantsurya13@gmail.com\
 Phone📞: +91 7028768722
 
