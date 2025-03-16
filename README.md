@@ -56,7 +56,7 @@ Over the course of my degree I've had the opportunity to do certifications from 
 * **Advanced Google Analytics** - July 2024 by Google Analytics
 
 ## Contacts
-Linkedin: [linkedin.com/in/vedant-suryawanshi](www.linkedin.com/in/vedant-suryawanshi-216114268)
+Linkedin: [linkedin.com/in/vedant-suryawanshi](www.linkedin.com/in/vedant-suryawanshi-216114268)\
 Email📧: vedantsurya13@gmail.com\
 Phone📞: +91 7028768722
 
