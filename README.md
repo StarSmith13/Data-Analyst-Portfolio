@@ -23,7 +23,7 @@ My Resume in [pdf](https://github.com/StarSmith13/Data-Analyst-Portfolio/blob/ma
 ### <ins>Supply Chain Efficiency Analysis</ins>
 **Objective:** To analyze supply chain data and identify patterns in revenue, production costs, logistics, and defect rates to improve operational efficiency.
 
-**Code:** [https://github.com/StarSmith13/Supply-Chain-Efficiency-analysis](https://github.com/StarSmith13/Supply-Chain-Efficiency-Analysis/blob/main/Supply_Chain_Efficiency_Analysis.ipynb)
+**Code & Dashboard:** [https://github.com/StarSmith13/Supply-Chain-Efficiency-analysis](https://github.com/StarSmith13/Supply-Chain-Efficiency-Analysis/blob/main/Supply_Chain_Efficiency_Analysis.ipynb)
 
 **Description:** Performed data preprocessing and exploratory analysis on 90+ products across 3 categories (Skincare, Haircare, and Cosmetics). Evaluated sales performance in major cities and identified Kolkata as the highest-selling city with a defect rate of 41.66%.
 
