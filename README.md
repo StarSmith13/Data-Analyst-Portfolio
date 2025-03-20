@@ -51,9 +51,9 @@ Kendriya Vidyalaya Vayusena Nagar, Nagpur - Secondary School Certificate, Apr 20
 
 ## Certificates
 Over the course of my degree I've had the opportunity to do certifications from various backgrounds. Here are the select few that stand out:
-* **Introduction to Data Science** - Apr 2024 by IBM (edX)
-* **Google Analytics for Beginners** - July 2024 by Google Analytics
-* **Advanced Google Analytics** - July 2024 by Google Analytics
+* **Introduction to Data Science** - April 2024 by IBM (edX)
+* **Google Analytics for Beginners** - April 2024 by Google Analytics
+* **Advanced Google Analytics** - June 2024 by Google Analytics
 
 ## Contacts
 Linkedinℹ️: [Vedant Suryawanshi](https://www.linkedin.com/in/vedant-suryawanshi-216114268/)\
